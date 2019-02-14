@@ -5,6 +5,10 @@ last_modified_at: 2019-01-22T05:31:40+08:00
 toc: true
 toc_label: "Included Layouts"
 toc_icon: "columns"
+tags:
+  - Linux
+  - ESXi
+  - tcpdump
 ---
 
 本文主要介绍Linux和ESXi环境中的抓包工具

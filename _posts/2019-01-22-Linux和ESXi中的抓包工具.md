@@ -5,6 +5,8 @@ last_modified_at: 2019-01-22T05:31:40+08:00
 toc: true
 toc_label: "Included Layouts"
 toc_icon: "columns"
+categories:
+  - 技术
 tags:
   - Linux
   - ESXi
@@ -111,3 +113,7 @@ pktcap-uw --uplink vmnic0 --vlan 622 -o vmnic0.pcap
 > [参考资料](https://www.virten.net/2015/10/esxi-network-troubleshooting-with-tcpdump-uw-and-pktcap-uw/)
 >
 > [官方文档主页](https://docs.vmware.com/cn/VMware-vSphere/index.html)
+
+
+<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+---
